@@ -27,4 +27,4 @@ I have knowledge in **Python (FastAPI)** and **SQL** for data handling and API d
 ## 🗨 My Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Link to your LinkedIn Profile])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gguu.henri.@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gguu.henri.@gmail.com)
