@@ -1,58 +1,37 @@
-# Hi there, I'm Gustavo Henrique! 👋
+# 👋 Hello! Welcome to my GitHub profile.
 
-### Frontend Developer (Angular) | Aspiring Data Professional
-
-I'm a 20-year-old Computer Science student and a dedicated frontend developer with a primary focus on the **Angular** framework.
-
-I'm highly motivated to transition into the **Data Science/Data Analysis** field and possess fundamental knowledge of **SQL**, **Power BI**, and **Python**, particularly for API development.
-
-My objective is to join the job market to learn from experienced professionals and contribute effectively to a work environment.
+My name is Gustavo Henrique Silva Fernandes and my nickname is "gguu.henri"!
+Computer Science student at the Centro Universitário de Brasília – Ceub.
 
 ---
 
-### 💻 Technologies & Skills
+## 🚀 About me
 
-Here are some of the technologies and skills I work with:
+I am a **20-year-old** technology enthusiast striving to grow in the IT field 🚀. I am currently a **Frontend Developer** focused on **Angular**, but my main goal is to transition into the **Data Science/Analysis** area 📊.
 
-| Category | Skills and Knowledge |
+I have knowledge in **Python (FastAPI)** and **SQL** for data handling and API development, and I hold the **PSM I** certification in Scrum. I'm eager to gain real-world experience and contribute to a professional team!
+
+---
+
+## 🧠 Skills
+
+| Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend/Web** | **Angular** (creating agile web applications, components, routes, API integration), **HTML/CSS** (responsive page structuring, best practices), **JavaScript/TypeScript**. |
-| **Data/Backend** | **Python** (Object-Oriented Programming, classes, inheritance, encapsulation, **FastAPI** for building APIs), **SQL** (queries, joins, grouping, data manipulation), **Power BI**. |
-| **Methodologies** | **Agile Methodologies**, **Certified PSM I** (Professional Scrum Master I) from Scrum.org. |
-| **Tools/Other** | Git, GitHub, VS Code. |
+| **Frontend/Web** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> |
+| **Data/Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/> |
+| **Metodologia** | <img src="https://img.shields.io/badge/SCRUM%20PSM%20I-007FFF?style=for-the-badge&logo=scrum" alt="PSM I" width="40" height="40"/> |
+| **Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> |
 
 ---
 
-### 🌱 Education & Learning
+## 📈 My GitHub Stats
 
-* **B.Sc. in Computer Science** – CEUB University (Currently enrolled, expected graduation December 2026).
-* **Current Focus:** Deepening knowledge in Data Analysis and practical application of Agile methodologies.
-* **Language:** Advanced English.
-
----
-
-### 🚀 Relevant Experience & Soft Skills
-
-I had a great internship experience at TCDF in the Patrimony area, which helped me develop strong interpersonal skills by interacting with people from diverse areas and age groups.
-
-* **Soft Skills:** Proactive, organized, effective communicator, adaptable, team player, and highly eager to learn.
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=**[SEU-USERNAME]**&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile)](https://github.com/**[SEU-USERNAME]**)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**[SEU-USERNAME]**&layout=compact&theme=dark&hide_border=true)](https://github.com/**[SEU-USERNAME]**)
 
 ---
 
-### 🤝 Connect With Me
+## 🗨 My Social Media
 
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Link to your LinkedIn Profile] |
-| **Email** | gguu.henri.@gmail.com |
-
----
----
-
-### 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=**[SEU-USERNAME]**&show_icons=true&theme=vue&hide_border=true)](https://github.com/**[SEU-USERNAME]**)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**[SEU-USERNAME]**&layout=compact&theme=vue&hide_border=true)](https://github.com/**[SEU-USERNAME]**)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Link para o seu perfil do LinkedIn])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gguu.henri.@gmail.com)
