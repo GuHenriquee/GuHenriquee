@@ -24,13 +24,6 @@ I have knowledge in **Python (FastAPI)** and **SQL** for data handling and API d
 
 ---
 
-## 📈 My GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=**[YOUR-USERNAME]**&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile)](https://github.com/**[YOUR-USERNAME]**)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**[YOUR-USERNAME]**&layout=compact&theme=dark&hide_border=true)](https://github.com/**[YOUR-USERNAME]**)
-
----
-
 ## 🗨 My Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([Link to your LinkedIn Profile])
