@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my GitHub profile.
 
-My name is Gustavo Henrique Silva Fernandes and my nickname is "gguu.henri"!
+My name is Gustavo Henrique Silva Fernandes!
 Computer Science student at the Centro Universitário de Brasília – Ceub.
 
 ---
