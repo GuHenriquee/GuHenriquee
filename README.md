@@ -8,9 +8,9 @@ My name is Gustavo Henrique Silva Fernandes!
 ## 🚀 About Me
 
 I am a **21-year-old** technology enthusiast striving to grow in the IT field 🚀.  
-Currently, I am a **Frontend Developer** focused on **Angular**, but my main goal is to transition into the **Data Science/Analysis** area 📊.  
-I have knowledge in **Python (FastAPI)** and **SQL** for data handling and API development, and I hold the **PSM I** certification in Scrum.  
-I'm eager to gain real-world experience and contribute to a professional team!
+I am a **Full Stack Developer** with experience in **Python (FastAPI)**, **SQL**, **Java (Spring)**, **Power BI**, and **PostgreSQL** ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) for data handling, API development, and data analysis.  
+Currently, I'm focusing on **AI with Python**.  
+I hold the **PSM I** certification in Scrum and am eager to gain real-world experience and contribute to a professional team!  
 
 ---
 
@@ -18,30 +18,29 @@ I'm eager to gain real-world experience and contribute to a professional team!
 
 ### **Frontend/Web Development**
 
-- **Angular**  
-- **HTML5, CSS3, TypeScript**
+![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
 
 ### **Data/Backend Development**
 
-- **Python**  
-- **FastAPI**  
-- **SQL**  
-- **Power BI**
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
+![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)  
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi)
 
 ### **Methodology**
 
-- **PSM I** (Scrum)
+![PSM I](https://img.shields.io/badge/SCRUM%20PSM%20I-007FFF?style=for-the-badge&logo=scrum&logoColor=white)
 
 ### **Tools**
 
-- **Git, GitHub, VS Code**
-
----
-
-## 💻 Additional Skills
-
-- **Java**  
-- **Spring**
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 
 ---
 
